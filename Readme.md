@@ -42,26 +42,4 @@ Max_Attempts: The maximum number of guesses allowed before the game ends (defaul
 
 If you find any issues with the program or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-# Project Members
 
-1.  Onyewuchi Emeka                - 2019/242343 -     Game Development
-2.  Onukwu Francis                 - 2020/249371 -     Github Adoption and Enlightenment
-3.  Ekwe Gideon Chizaramekpere     - 2020/241207 -     Game Development
-4.  Eze Chisom Victor              - 2020/241365 -     Research
-5.  Akani John Praise              - 2020/241361 -     Github Adoption and Enlightenment
-6.  Ezeozue Chidinma Ifeoma        - 2020/241181 -     Research
-7.  Izum Chinyere Vera             - 2020/241982 -     Code Review
-8.  Chibuikem Samuel C.            - 2020/241245 -     Report Writing
-9.  Omaliko Chisom                 - 2021/248533 -     Game Development
-10. Nwangwu John Sinclair          - 2020/247006 -     Research
-11. Ndukwe Peter Ifejikochukwu     - 2020/241163 -     Game Development
-12. Nwogu Michael                  - 2020/248964 -     Code Review
-13. Ezeokoli Greg Chijioke         - 2020/241362 -     Research
-14. Okechukwu Favour Chinemerem    - 2020/241203 -     Game Development
-15. Chukwugbo Emmanuella Chimdindu - 2020/241208 -     Code Review
-16. Ella Anthony Richard           - 2020/241339 -     Report Writing
-17. Josiaiah Prince T              - 2020/248512 -     Game Development
-18. Okoronta Grace Sopuruchi       - 2020/241186 -     Report Writing
-19. George-OgeKalu Comfort         - 2020/241349 -     Code Review
-20. Chikwem Donald                 - 2020/241241 -     Github Adoption and Development
-21. Chinaka Michael Ezechukwu      - 2020/243678 -     Game Development
