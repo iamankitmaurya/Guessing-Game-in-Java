@@ -6,7 +6,7 @@ public class GuessingGame {
     public static void main(String[] args) {
 
         Random Number_Generated = new Random();
-        int Correctguess = NumberGenerated.nextInt(15);
+        int Correctguess = Number_Generated.nextInt(15);
         int NumberTried = 0;
         int NumberGuessed;
         int Max_Attempts = 10; // This is the Maximum Number of attempts
