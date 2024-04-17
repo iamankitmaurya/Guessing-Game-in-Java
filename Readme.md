@@ -5,7 +5,7 @@ The random number is changed after the maximum number of attempt is reached
 
 # Installation
 
-Clone the repository: git clone https://github.com/EmekaManuel/javaProject.git
+Clone the repository: git clone https://github.com/iamankitmaurya/Guessing-Game-in-Java
 
 Open the project on your preferred IDE
 
